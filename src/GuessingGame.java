@@ -44,5 +44,7 @@ public class GuessingGame {
                 correctGuess = true;
             }
         }
+//        new MarsExpedition();
+        new FindingLists();
     }
 }
